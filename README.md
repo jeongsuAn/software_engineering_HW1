@@ -65,3 +65,6 @@
 
 - 로그아웃 event  
   프로그램 종료
+
+# UI screen design
+[![Watch the video](https://i9.ytimg.com/vi/FTv73KrUSQY/mq1.jpg?sqp=CMzMupMG&rs=AOn4CLBdNcIwQQt1gEhgz2in2P_RVs5JeQ)](https://youtu.be/FTv73KrUSQY)
