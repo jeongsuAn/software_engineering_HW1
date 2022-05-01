@@ -1,3 +1,9 @@
+[jeongsuAn] Mon May 2 00:33:09 2022 +0900 Add UI_Screen_design video in README.md 049131b
+[zero0205] Mon May 2 00:30:05 2022 +0900 Modify 판매 상품 삭제 use case description 5676562
+[zero0205] Mon May 2 00:25:53 2022 +0900 Add 판매 상품 삭제 use case description f7a5a7e
+[zero0205] Mon May 2 00:14:38 2022 +0900 Add functional #26 to Requirement list 078a597
+[zero0205] Mon May 2 00:06:49 2022 +0900 Add "상품 삭제" use case b8d2635
+[jeongsuAn] Sun May 1 23:22:25 2022 +0900 Modify log_output.txt ce58867
 [jeongsuAn] Sun May 1 23:16:54 2022 +0900 Merge branch 'main' of https://github.com/jeongsuAn/software_engineering_HW1 6ed6f45
 [jeongsu] Sun May 1 23:14:10 2022 +0900 Add commit log d9ea1e5
 [daeunchung] Sun May 1 22:48:43 2022 +0900 minor change 720ef16
