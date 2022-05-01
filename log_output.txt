@@ -1,0 +1,24 @@
+[daeunchung] Sun May 1 22:46:57 2022 +0900 Merge branch 'main' of https://github.com/jeongsuAn/software_engineering_HW1 into main cc48ea5
+[daeunchung] Sun May 1 22:46:43 2022 +0900 Add events as Actor Descriptions 7e802e5
+[jeongsu] Sun May 1 22:45:14 2022 +0900 Add Use case description 571527e
+[zero0205] Sun May 1 22:30:40 2022 +0900 Modify use case description 91a53f9
+[daeunchung] Sun May 1 12:26:06 2022 +0900 tweak in 로그아웃 aeb58a1
+[daeunchung] Sun May 1 12:19:20 2022 +0900 \n 9ec2a7e
+[daeunchung] Sun May 1 12:13:04 2022 +0900 Merge branch 'main' of https://github.com/jeongsuAn/software_engineering_HW1 into main cb7be81
+[daeunchung] Sun May 1 12:11:22 2022 +0900 Use case Description 정다은 b6398d3
+[zero0205] Sat Apr 30 21:46:42 2022 +0900 Add use case description (Seller and 4 events) e3bddce
+[daeunchung] Wed Apr 27 11:28:38 2022 +0900 Merge branch 'Actor-descriptions' into main c796827
+[daeunchung] Wed Apr 27 11:27:49 2022 +0900 add Combined usecase diagram 219d74d
+[zero0205] Wed Apr 27 09:23:57 2022 +0900 Merge branch 'main' of https://github.com/jeongsuAn/software_engineering_HW1 3604ace
+[jeongsuAn] Wed Apr 27 01:31:55 2022 +0900 fix merge conflict a5c0f77
+[jeongsuAn] Wed Apr 27 01:28:34 2022 +0900 fix merge conflict 511ec15
+[zero0205] Wed Apr 27 01:16:38 2022 +0900 Add User use case diagram a55ac27
+[jeongsuAn] Wed Apr 27 01:15:06 2022 +0900 add customer use case diagram 782458c
+[jeongsuAn] Wed Apr 27 01:10:05 2022 +0900 modify Requirement list dd5bb68
+[daeunchung] Sun Apr 24 23:03:48 2022 +0900 Actor descriptions 3c0b619
+[jeongsuAn] Fri Apr 22 00:02:05 2022 +0900 Modify Requirement 1659fb3
+[zero0205] Tue Apr 19 18:08:26 2022 +0900 Requirementlist 수정 Move non-functional #4 to functional #4 Divide functional #10 and move to non-functional #7 Add non-functional #10 Divide functional #15 and add to functional #19 Divide functional #15 and move to non-functional #11 3c84d90
+[jeongsuAn] Mon Apr 18 22:39:26 2022 +0900 Merge branch 'main' of https://github.com/jeongsuAn/software_engineering_HW1 Requirement list 작성 63100c0
+[jeongsuAn] Mon Apr 18 22:36:42 2022 +0900 Requirement list 작성 3ae6931
+[jeongsuAn] Mon Apr 18 22:29:29 2022 +0900 Update README.md fb574fb
+[jeongsuAn] Mon Apr 18 20:30:21 2022 +0900 Initial commit 0ea9f3e
