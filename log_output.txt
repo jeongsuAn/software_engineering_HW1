@@ -1,3 +1,6 @@
+[jeongsuAn] Sun May 1 23:16:54 2022 +0900 Merge branch 'main' of https://github.com/jeongsuAn/software_engineering_HW1 6ed6f45
+[jeongsu] Sun May 1 23:14:10 2022 +0900 Add commit log d9ea1e5
+[daeunchung] Sun May 1 22:48:43 2022 +0900 minor change 720ef16
 [daeunchung] Sun May 1 22:46:57 2022 +0900 Merge branch 'main' of https://github.com/jeongsuAn/software_engineering_HW1 into main cc48ea5
 [daeunchung] Sun May 1 22:46:43 2022 +0900 Add events as Actor Descriptions 7e802e5
 [jeongsu] Sun May 1 22:45:14 2022 +0900 Add Use case description 571527e
