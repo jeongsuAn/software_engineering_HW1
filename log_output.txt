@@ -1,3 +1,30 @@
+[jeongsuAn] Wed May 18 22:48:04 2022 +0900 Modify AnalysisClassDIagram aec726d
+[jeongsuAn] Wed May 18 22:42:34 2022 +0900 Add AnalysisClassDiagram 6b839f2
+[jeongsuAn] Wed May 18 22:41:48 2022 +0900 Modify UsecaseDiagram_User c84965a
+[jeongsuAn] Wed May 18 22:10:54 2022 +0900 Modify Sequence Diagram 7399a4a
+[daeunchung] Wed May 18 21:43:39 2022 +0900 Add Seller's Class Diagram All-In-One 363e651
+[zero0205] Wed May 18 21:41:23 2022 +0900 Modify class diagram d654d85
+[zero0205] Wed May 18 21:19:11 2022 +0900 Modify class diagram d08745f
+[zero0205] Wed May 18 21:07:27 2022 +0900 Modify sequence diagram a1eb33d
+[zero0205] Wed May 18 21:05:47 2022 +0900 Modify use case description d9433b7
+[daeunchung] Tue May 17 05:19:29 2022 +0900 Merge branch 'HW2' of https://github.com/jeongsuAn/software_engineering_HW1 into HW2 a894936
+[daeunchung] Tue May 17 05:18:53 2022 +0900 Add Class Diagram for Seller 7b8745c
+[daeunchung] Tue May 17 05:18:22 2022 +0900 Add Communication Diagram for Seller 119f432
+[zero0205] Mon May 16 21:03:29 2022 +0900 Merge branch 'HW2' of https://github.com/jeongsuAn/software_engineering_HW1 into HW2 17ca99c
+[zero0205] Mon May 16 21:00:53 2022 +0900 Add class diagram_customer 8984991
+[zero0205] Mon May 16 21:00:14 2022 +0900 Add sequence diagram_customer f10003d
+[zero0205] Mon May 16 20:59:05 2022 +0900 Modify use case description 3ed2727
+[jeongsuAn] Mon May 16 20:02:52 2022 +0900 Add Sequce Diagram (회원가입,회원탈퇴,로그인,로그아웃,상품정보검색) 7741e09
+[jeongsuAn] Mon May 16 18:47:41 2022 +0900 Modify Usecase description e3948bc
+[zero0205] Mon May 16 00:16:08 2022 +0900 Modify sequence diagram 098186a
+[zero0205] Sun May 15 23:40:58 2022 +0900 Merge branch 'HW2' of https://github.com/jeongsuAn/software_engineering_HW1 into HW2 94e9557
+[zero0205] Sun May 15 23:33:17 2022 +0900 Add use case description & sequence diagram (HW2 Customer) c6d90a7
+[jeongsuAn] Sun May 15 22:28:12 2022 +0900 Add Usecase Description 15eac3b
+[daeunchung] Sun May 15 20:44:14 2022 +0900  HW2 B711169 정다은 Use case description 8d9f604
+[jeongsuAn] Fri May 13 00:53:40 2022 +0900 Modify Use case ac90591
+[jeongsuAn] Fri May 13 00:53:13 2022 +0900 Modify README.md a73a5c6
+[jeongsuAn] Fri May 13 00:45:31 2022 +0900 Modify Use Cases a63d34e
+[jeongsuAn] Mon May 2 00:36:53 2022 +0900 Modify log_output.txt fafa790
 [jeongsuAn] Mon May 2 00:33:09 2022 +0900 Add UI_Screen_design video in README.md 049131b
 [zero0205] Mon May 2 00:30:05 2022 +0900 Modify 판매 상품 삭제 use case description 5676562
 [zero0205] Mon May 2 00:25:53 2022 +0900 Add 판매 상품 삭제 use case description f7a5a7e
