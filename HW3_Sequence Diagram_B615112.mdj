@@ -19702,11 +19702,11 @@
 											},
 											"font": "Arial;13;0",
 											"left": 344,
-											"top": 143,
+											"top": 151,
 											"width": 155.3271484375,
 											"height": 13,
-											"alpha": 2.9304993935377532,
-											"distance": 28.635642126552707,
+											"alpha": 2.677945187446089,
+											"distance": 31.304951684997057,
 											"hostEdge": {
 												"$ref": "AAAAAAGBCPQ2RdeeEsg="
 											},
@@ -20396,7 +20396,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 40.72998046875,
-											"top": 5,
+											"top": 21,
 											"width": 56.61181640625,
 											"height": 13,
 											"text": "회원 탈퇴"
@@ -20409,7 +20409,7 @@
 											},
 											"font": "Arial;13;1",
 											"left": 21,
-											"top": 5,
+											"top": 21,
 											"width": 14.72998046875,
 											"height": 13,
 											"text": "sd"
@@ -20417,8 +20417,9 @@
 									],
 									"font": "Arial;13;0",
 									"left": 16,
-									"width": 849,
-									"height": 409,
+									"top": 16,
+									"width": 929,
+									"height": 473,
 									"nameLabel": {
 										"$ref": "AAAAAAGAyk/sFTizWYg="
 									},
